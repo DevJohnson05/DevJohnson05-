@@ -1,30 +1,18 @@
-# Olá! Eu sou [Seu Nome] 👋
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por desenvolvimento web e sempre em busca de aprimorar minhas habilidades como desenvolvedor fullstack. No momento, estou focado no aprendizado de **PHP**, **React** e **JavaScript**.
-
-## 💻 Tecnologias e Ferramentas
-
-- **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: PHP, MySQL
-- **Ferramentas**: VSCode, XAMPP, Git, GitHub
-
-## 🌱 O que estou aprendendo:
-
-- PHP com Programação Orientada a Objetos (POO)
-- JavaScript avançado
-- React e suas bibliotecas
-- Conceitos de Fullstack
-
-## 📚 Projetos em destaque
-
-- [Projeto de Conscientização sobre o Excesso de Tela](#) - Um site de conscientização sobre os efeitos do uso excessivo de telas, incluindo um quiz interativo e dicas práticas para melhorar a saúde digital.
-
-- [Meu Portfólio](#) - Um site pessoal com meus projetos e informações de contato.
-
-## 🚀 Próximos passos
-
-- Participar de um bootcamp para aprimorar minhas habilidades em desenvolvimento fullstack.
-- Continuar os estudos em **Java** e **React**.
+# 💫 About Me:
+Me chamo Vinícius, sou estudante de programação web.<br>Busco me desenvolver na função fullstack, atualmente faço <br>faculdade de ADS na Censupeg e estou no 3º periodo
 
 
-Fique à vontade para explorar meus repositórios e colaborar!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devjohnson05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ViniciusJohnson) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@dev.johnson78) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevJohnson05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevJohnson05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJohnson05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DevJohnson05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,18 +1,67 @@
-# 💫 About Me:
-Me chamo Vinícius, sou estudante de programação web.<br>Busco me desenvolver na função fullstack, atualmente faço <br>faculdade de ADS na Censupeg e estou no 3º periodo
+👋 Sobre mim
+
+Me chamo Vinícius, sou estudante de programação web e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Censupeg, onde estou no 3º período.
+
+Meu objetivo é me desenvolver como desenvolvedor fullstack, aprendendo tanto as tecnologias de front-end quanto de back-end.
+
+🌟 Tecnologias e Ferramentas que eu domino:
+
+Front-End
+
+HTML5: Estruturas básicas de páginas web.
+
+CSS3: Estilos simples e layouts responsivos.
+
+JavaScript: Manipulação básica de DOM e lógica de programação.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devjohnson05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ViniciusJohnson) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@dev.johnson78) 
+Back-End
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevJohnson05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevJohnson05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJohnson05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+PHP: Programação básica e manipulação de variáveis globais.
 
----
-[![](https://visitcount.itsvg.in/api?id=DevJohnson05&icon=0&color=0)](https://visitcount.itsvg.in)
+MySQL: Criação de tabelas, consultas simples e interações com Workbench.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Outras Ferramentas e Conceitos
+
+Git e GitHub: Versionamento básico de código.
+
+Terminal (Linux/WSL): Comandos básicos para navegação e manipulação de arquivos.
+
+
+📚 Em aprendizado:
+
+Docker: Configuração e uso de containers.
+
+PHP com PDO: Interação segura com banco de dados.
+
+Conceitos de design responsivo: Utilizando práticas modernas.
+
+
+🎯 Objetivos de aprendizado para o futuro:
+
+Front-End:
+
+Bootstrap: Para criação de layouts rápidos e responsivos.
+
+React: Biblioteca para interfaces de usuário dinâmicas.
+
+Vue.js: Framework progressivo para construção de UIs.
+
+
+Back-End:
+
+Laravel: Framework para desenvolvimento ágil e estruturado em PHP.
+
+
+DevOps:
+
+Aprofundar conhecimentos em Docker e sistemas baseados em Linux.
+
+
+
+📫 Como me encontrar:
+
+LinkedIn: Vinicius Johnson 
+
+GitHub: DevJohnson05

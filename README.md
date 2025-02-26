@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Me chamo Vinícius, sou estudante de programação web e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Censupeg, onde estou no 3º período.
+Me chamo Vinícius Johnson, sou estudante de programação web e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Censupeg, onde estou no 3º período.
 
 Meu objetivo é me desenvolver como desenvolvedor fullstack, aprendendo tanto as tecnologias de front-end quanto de back-end.
 

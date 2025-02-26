@@ -62,6 +62,6 @@ Aprofundar conhecimentos em Docker e sistemas baseados em Linux.
 
 📫 Como me encontrar:
 
-LinkedIn: Vinicius Johnson 
+LinkedIn: [Vinícius Johnson](www.linkedin.com/in/vinícius-johnson-dev2467)
 
 GitHub: DevJohnson05
